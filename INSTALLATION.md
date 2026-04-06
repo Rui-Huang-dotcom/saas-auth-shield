@@ -300,7 +300,8 @@ ls -la ~/.claude/
 ~/.claude/skills/
 ├── saas-auth-shield/          ← Your installed skill
 │   ├── SKILL.md                    # Main skill file
-│   ├── README.md                   # Documentation
+│   ├── README.md                   # English documentation
+│   ├── README.zh-CN.md            # 中文文档
 │   ├── template.md                 # User preference template
 │   ├── FILE_MANIFEST.md            # File manifest
 │   ├── LICENSE                     # MIT License
